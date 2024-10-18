@@ -63,7 +63,7 @@ NOTE: USD to CNY exchange rate is 7.10
 
 ### Spacebars  
 **Price(USD):** 18.00	**Price(CNY):** 127.83	**Quantity:** Unknown  
-<img src="'../../assets/images/sa-keycaps/dasher-nights/kits_pics/spacebars.png'" alt="spacebars" class="image featured">
+<img src="'../../../assets/images/sa-keycaps/dasher-nights/kits_pics/spacebars.png'" alt="spacebars" class="image featured">
 
 ## Info
 * Designer: Jeremy Yuenger  
