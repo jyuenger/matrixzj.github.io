@@ -74,4 +74,4 @@ NOTE: USD to CNY exchange rate is 7.10
 
 
 ## Pictures  
-<img src='assets/images/sa-keycaps/dasher-nights/rendering_pics/render-1.jpg' | relative_url }}" alt="0" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/dasher-nights/rendering_pics/render-1.jpg' | relative_url }}" alt="0" class="image featured">
