@@ -72,6 +72,22 @@ NOTE: USD to CNY exchange rate is 7.10
 * Estimated Shipping Time: October 2024
 * Color Codes: BFU, BBJ
 
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>BFU</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFU.png' | relative_url }}" alt="colorBFU" height="75" width="170"></th> 
+  </tr>
+  <tr>
+    <th>BBJ</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBJ.png' | relative_url }}" alt="colorBFJ" height="75" width="170"></th>
+  </tr>
+</table>
+
+
 ## Pictures  
 <img src="{{ 'assets/images/sa-keycaps/dasher-nights/rendering_pics/render-1.jpg' | relative_url }}" alt="1" class="image featured">
 
